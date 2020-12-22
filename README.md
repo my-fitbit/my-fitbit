@@ -2,24 +2,22 @@
 
 <div align="center">
 <img src="https://octodex.github.com/images/gangnamtocat.png" width="200">
-<p>This is not me :) but more :octocat: on https://octodex.github.com/. ❤️ for GitHub </p>
+<p>This :octocat: is not me :blush: , but like me </p>
 </div>
 
-
-
+View more octocats on the [Octodex](https://octodex.github.com/)! with ❤️ for GitHub  :
 -------
 
 ## Some random quotes 
 
+<div align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"><br>
+<sup><strong>Fig :</strong> some random quote</sup>
+</div>
+
 ```diff
 + Tip: refresh the page to regenerate
 ```
-
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"><br>
-<sup><strong>Fig :</strong> Random `quote`</sup>
-</div>
-
 
 -------
 
